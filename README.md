@@ -1,5 +1,5 @@
-![Green Orange Simple Minimalist We Are Hiring Banner](https://github.com/user-attachments/assets/3cc84e8f-c1d9-468b-ba8a-46ef0574e287)
-# Hi there 👋 I'm Ntwenhle Mtshali
+
+![BANNER](https://github.com/user-attachments/assets/1b81ea0c-58cb-4d3c-97e3-38075dbb2ff5)
 
 I'm a **biologist** with a passion for **data analytics**, a growing love for **software engineering** and **AI with Machine learning**. I'm on a journey to bridge biology and technology through code, data, and problem-solving.
 
